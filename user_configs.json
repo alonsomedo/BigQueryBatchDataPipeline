@@ -1,0 +1,8 @@
+{
+    "BUCKET_NAME": "md_pe_datapipeline",
+    "TMP_BUCKET_NAME": "tmp_md_pe", 
+    "CUSTOMER_PATH": "./data_in/customer.csv",
+    "LOANAPPLICATIONS_PATH": "./data_in/loanApplications.csv",
+    "CUSTOMER_DESTINATION_PATH": "data_in/customer.csv",
+    "LOANAPPLICATIONS_DESTINATION_PATH": "data_in/loanApplications.csv"
+}
